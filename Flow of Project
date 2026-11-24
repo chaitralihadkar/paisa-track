@@ -1,0 +1,28 @@
+• "npm create vite@latest" command in terminal to create react app/project (inbuild files and folders) and "cd project-name" command to change directory
+• App.css file deleted
+• Installed tailwind css (utility-first CSS framework) using command "npm install tailwindcss @tailwindcss/vite" and followed steps mentioned in it's document and added required classes in className
+• Integrated google fonts
+• Installed React Router for routing using docs
+• StrictMode is removed and BrowserRouter is used for routing purpose
+• install uuid using docs and used it
+
+---> Add 
+• typescript
+• toggle function to hide and unhide password
+• make sign up form correct (userName is autofilled with email)
+• localStorage is storing correctly but when the website is restarted , it repaces the array with empty array and then adds new elements of that time
+• remove temporary header and footer used in UserPortal component
+• Update the Home page (i.e Header, Hero and Footer) in terms of responsiveness (user-friendly UI)
+• In add-transaction route (AddTransaction component) : date and radio button input width , "dd-mm-yy" should be center of input,  check text-size for responsiveness
+• responsiveness of h1 of components like addTransaction, addIncome, addExpense
+• add z-index in Transactions page if needed (noted in the page) and other pages like income and expense
+
+---> Understand concepts
+• list-disc , list-decimal , list-inside (Introduction component)
+• flex, grid and their methods
+• typescript
+• array , objects and their methods (userCredentials) (extra: reference , spread operator)
+• storing elements in localStorage (localStorage it's methods and JSON's stringify and parse methods)
+• useNavigate hook for navigate in button
+• understand z-index in Transactions page if added (noted in the page) and other pages like income and expense
+•
